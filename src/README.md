@@ -2,11 +2,11 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+title: 主页
+heroImage: https://github.com/ouyanglingle/blog/blob/main/src/.vuepress/public/assets/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-12-01%20225653.png
+heroText: 机协控制组
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 稳控踏实之路 心怀感恩之情 创新驱动前行
 projects:
   - icon: project
     name: 项目名称
