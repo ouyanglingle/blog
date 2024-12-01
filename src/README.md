@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-heroImage: ![alt text](<屏幕截图 2024-12-01 225653.png>)
+heroImage: ![屏幕截图 2024-12-01 225653.png](https://github.com/ouyanglingle/blog/blob/main/src/.vuepress/public/assets/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-12-01%20225653.png?raw=true)
 heroText: 机器人协会
 heroFullScreen: true
 tagline: 稳控踏实之路 心怀感恩之情 创新驱动前行
