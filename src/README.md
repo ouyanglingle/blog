@@ -3,8 +3,8 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-heroImage: https://github.com/ouyanglingle/blog/blob/main/src/.vuepress/public/assets/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-12-01%20225653.png
-heroText: 机协控制组
+heroImage: https://bkimg.cdn.bcebos.com/pic/83025aafa40f4bfb9d032943094f78f0f63618d1?x-bce-process=image/format,f_auto
+heroText: 机器人协会
 heroFullScreen: true
 tagline: 稳控踏实之路 心怀感恩之情 创新驱动前行
 projects:
