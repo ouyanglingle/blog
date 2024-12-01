@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-heroImage: https://bkimg.cdn.bcebos.com/pic/83025aafa40f4bfb9d032943094f78f0f63618d1?x-bce-process=image/format,f_auto
+heroImage: ![alt text](<屏幕截图 2024-12-01 225653.png>)
 heroText: 机器人协会
 heroFullScreen: true
 tagline: 稳控踏实之路 心怀感恩之情 创新驱动前行
