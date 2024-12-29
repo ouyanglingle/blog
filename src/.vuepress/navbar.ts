@@ -9,12 +9,12 @@ export default navbar([
     prefix: "/posts/",
     children: [
       {
-        text: "苹果",
+        text: "测试",
         icon: "pen-to-square",
         prefix: "apple/",
         children: [
-          { text: "苹果1", icon: "pen-to-square", link: "1" },
-          { text: "苹果2", icon: "pen-to-square", link: "2" },
+          { text: "测试1", icon: "pen-to-square", link: "1" },
+          { text: "测试2", icon: "pen-to-square", link: "2" },
           "3",
           "4",
         ],
