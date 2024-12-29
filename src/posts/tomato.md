@@ -1,11 +1,12 @@
 ---
 cover: /assets/images/cover2.jpg
 icon: pen-to-square
-date: 2022-01-12
+date: 2024-12-29
 category:
-  - 蔬菜
+  - ESP32S3
+  - 单片机
 tag:
-  - 红
+  - hardware
   - 圆
 star: true
 sticky: true
