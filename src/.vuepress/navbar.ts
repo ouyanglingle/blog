@@ -9,7 +9,7 @@ export default navbar([
     prefix: "/posts/",
     children: [
       {
-        text: "随便",
+        text: "2024二期培训",
         icon: "pen-to-square",
         prefix: "2024二期培训/",
         children: [
@@ -20,17 +20,17 @@ export default navbar([
         ],
       },
       {
-        text: "香蕉",
+        text: "2024一期培训",
         icon: "pen-to-square",
-        prefix: "banana/",
+        prefix: "2024一期培训/",
         children: [
           {
-            text: "香蕉 1",
+            text: "对GPIO的简单操作",
             icon: "pen-to-square",
             link: "1",
           },
           {
-            text: "香蕉 2",
+            text: "常见I2C设备 的使用 2",
             icon: "pen-to-square",
             link: "2",
           },
