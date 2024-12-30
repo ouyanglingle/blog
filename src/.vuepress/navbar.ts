@@ -30,7 +30,7 @@ export default navbar([
             link: "1",
           },
           {
-            text: "常见I2C设备 的使用 2",
+            text: "常见I2C设备 的使用",
             icon: "pen-to-square",
             link: "2",
           },
