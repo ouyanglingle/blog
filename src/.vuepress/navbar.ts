@@ -9,9 +9,9 @@ export default navbar([
     prefix: "/posts/",
     children: [
       {
-        text: "测试",
+        text: "随便",
         icon: "pen-to-square",
-        prefix: "apple/",
+        prefix: "2024二期培训/",
         children: [
           { text: "测试1", icon: "pen-to-square", link: "1" },
           { text: "测试2", icon: "pen-to-square", link: "2" },
