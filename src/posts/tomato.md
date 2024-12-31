@@ -8,8 +8,9 @@ category:
 tag:
   - hardware
   - 圆
-star: true
-sticky: true
+star: false
+sticky: false
+footer: 5
 ---
 
 # 单文件博客模板
