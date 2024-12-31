@@ -10,7 +10,7 @@ tag:
   - 圆
 star: false
 sticky: false
-footer: 5
+order: 4  # 这是侧边栏的顺序
 ---
 
 # 单文件博客模板
