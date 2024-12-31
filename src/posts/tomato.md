@@ -8,9 +8,11 @@ category:
 tag:
   - hardware
   - 圆
-star: false
-sticky: false
-order: 4  # 这是侧边栏的顺序
+order: 1  # 这是侧边栏的顺序
+sticky: true # 此页面会在文章列表置顶
+star: true # 此页面会出现在星标文章中
+# footer: 这是测试显示的页脚 # 你可以自定义页脚
+copyright: 要什么版权 # 你可以自定义版权信息
 ---
 
 # 单文件博客模板
