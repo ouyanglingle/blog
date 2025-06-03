@@ -76,6 +76,7 @@ export default hopeTheme({
   encrypt: {
     config: {
       "/demo/encrypt.html": ["1234"],
+      "/posts/工作室内容/1.html":["2234"],
     },
   },
 
