@@ -12,9 +12,11 @@ cover: /assets/images/cover3.jpg
 
 (tips: 将你的个人介绍和档案放置在此处)
 ## - ⭐ GitHub Star
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouyanglingle&show_icons=true&theme=moltack)
+
+![ouyanglingle's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouyanglingle&show_icons=true&theme=moltack)
 
 ## - 📚 GitHub Repositories
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ouyanglingle&repo=blog&show_icons=true&theme=moltack)](https://github.com/ouyanglingle/blog) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ouyanglingle&repo=MyController&show_icons=true&theme=moltack)](https://github.com/ouyanglingle/MyController)
 
