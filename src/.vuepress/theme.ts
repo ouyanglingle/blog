@@ -75,8 +75,7 @@ export default hopeTheme({
   // 加密配置
   encrypt: {
     config: {
-      "/demo/encrypt.html": ["1234"],
-      "/posts/工作室内容/1.html":["2234"],
+      "/posts/工作室内容/1.html":["1433"],
     },
   },
 

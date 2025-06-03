@@ -17,6 +17,5 @@ cover: /assets/images/cover3.jpg
 
 ## - 📚 GitHub Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ouyanglingle&repo=blog&show_icons=true&theme=moltack)](https://github.com/ouyanglingle/blog) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ouyanglingle&repo=MyController&show_icons=true&theme=moltack)](https://github.com/ouyanglingle/MyController)
 
