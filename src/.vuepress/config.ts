@@ -9,7 +9,13 @@ export default defineUserConfig({
   title: "博客",
   description: "ouyanglingle 的博客",
 
-  theme,
+  theme: plumeTheme({
+    markdown: {
+      codeTabs: {
+        icon: true, // 启用图标功能
+      }
+    },
+  }),
 
   // 和 PWA 一起启用
   // shouldPrefetch: false,
